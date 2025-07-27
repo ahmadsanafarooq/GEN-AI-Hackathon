@@ -119,7 +119,7 @@ graph TD
 
 ## 🙌 Credits
 
-- 🧑‍💻 Developed by 
+🧑‍💻 Developed by 
 - `AHMAD SANA FAROOQ (BACKEND INTELLIGENCE STACK)`
 - `HASHIR AWAIZ (MODEL DEVELOPMENT)`
 - `RIDA YOUSUF (STRUCTURE BUILD & DIAGRAMS)`
