@@ -118,7 +118,7 @@ graph TD
 ---
 
 ## 🙌 Credits
-```
+
 - 🧑‍💻 Developed by 
 `AHMAD SANA FAROOQ (BACKEND INTELLIGENCE STACK)`
 `HASHIR AWAIZ (MODEL DEVELOPMENT)`
@@ -126,7 +126,7 @@ graph TD
 `TEMOOR IQBAL (FRONTEND)`
 `FAIZA KANWAL (DOCUMENTATION )`
 `EMAN (PRESENTATION)`
-```
+
 ---
 
 ## 📜 License
