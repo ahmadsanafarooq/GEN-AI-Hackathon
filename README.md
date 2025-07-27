@@ -24,7 +24,7 @@ This app intelligently detects rice leaf diseases using a deep learning model an
 ## 🧪 Tech Stack
 
 ### 🎨 Frontend
-- [Gradio](https://www.gradio.app/): UI for file upload, language selection, and chatbot.
+- [Streamlit](https://streamlit.io/): UI for file upload, language selection, and chatbot.
 - [Hugging Face Spaces](https://huggingface.co/spaces): Deployment platform.
 
 ### 🧠 Backend
@@ -118,10 +118,15 @@ graph TD
 ---
 
 ## 🙌 Credits
-
-- 🧑‍💻 Developed by Ahmad Sana Farooq
-- 🤖 Powered by Groq API, OpenAI, and CrewAI
-
+```
+- 🧑‍💻 Developed by 
+`AHMAD SANA FAROOQ (BACKEND INTELLIGENCE STACK)`
+`HASHIR AWAIZ (MODEL DEVELOPMENT)`
+`RIDA YOUSUF (STRUCTURE BUILD & DIAGRAMS)`
+`TEMOOR IQBAL (FRONTEND)`
+`FAIZA KANWAL (DOCUMENTATION )`
+`EMAN (PRESENTATION)`
+```
 ---
 
 ## 📜 License
