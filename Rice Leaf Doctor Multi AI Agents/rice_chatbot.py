@@ -14,7 +14,7 @@ llm = ChatGroq(
 
 # Prompt template
 system_msg = SystemMessage(
-    content="You are an expert agricultural assistant specialized in rice plant diseases. Provide helpful, clear, and accurate answers."
+    content = "You are an expert agricultural assistant specializing in rice plant diseases. Only provide helpful, clear, and accurate answers strictly related to agriculture, particularly rice cultivation and disease management. Do not respond to unrelated topics."
 )
 
 # Chat function
@@ -28,7 +28,7 @@ def get_response(message, history):
         response = llm(messages)
         return response.content
     except Exception as e:
-        return f"⚠️ Error: {str(e)}"
+        return f"Error: {str(e)}"
 
 # Custom CSS for agriculture-themed look
 custom_css = """
@@ -41,8 +41,8 @@ footer {display: none !important;}
 # Wrap UI inside a function so it can be reused
 def get_chatbot_block():
     with gr.Blocks(css=custom_css) as demo:
-        gr.Markdown("<h1>🌾 Agro Rice Disease Expert</h1>")
-        chatbot = gr.Chatbot(label="👨‍🌾 Ask about Rice Plant Diseases", elem_id="chatbot", height=400)
+        gr.Markdown("<h1> Agro Rice Disease Expert</h1>")
+        chatbot = gr.Chatbot(label=" Ask about Rice Plant Diseases", elem_id="chatbot", height=400)
         msg = gr.Textbox(placeholder="Ask your question here...", label="Your Question")
         clear = gr.Button("Clear")
 

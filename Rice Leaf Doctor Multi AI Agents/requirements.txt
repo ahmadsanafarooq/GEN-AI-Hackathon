@@ -1,4 +1,3 @@
-gradio
 tensorflow
 numpy
 Pillow
@@ -8,3 +7,10 @@ langchain-groq
 python-dotenv
 langchain_openai
 gtts
+matplotlib
+fpdf2
+transformers
+torch
+sentencepiece
+gradio
+Streamlit
