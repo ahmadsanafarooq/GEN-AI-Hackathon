@@ -1,0 +1,10 @@
+gradio
+tensorflow
+numpy
+Pillow
+crewai
+langchain
+langchain-groq
+python-dotenv
+langchain_openai
+gtts
