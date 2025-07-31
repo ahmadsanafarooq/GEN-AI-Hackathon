@@ -1,0 +1,16 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+faiss-cpu
+sentence-transformers
+gtts
+python-dotenv
+altair
+speechrecognition
+transformers
+torch
+numpy
+huggingface-hub
+accelerate
+pandas
