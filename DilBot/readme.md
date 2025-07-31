@@ -95,7 +95,7 @@ Try it out on [Hugging Face Spaces](https://huggingface.co/spaces/ahmadsanafaroo
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/DilBot.git
+   git clone https://github.com/ahmadsanafarooq/GEN-AI-Hackathon/DilBot.git
    cd DilBot
    ```
 
